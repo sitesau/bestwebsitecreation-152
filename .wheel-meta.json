@@ -1,0 +1,22 @@
+{
+  "wheel_id": 690,
+  "structure": "umbrella",
+  "slug": "bestwebsitecreation-152",
+  "project": "website-design-australia-b81adca33df47a6284b71320e8f9ec804ded33",
+  "parent_t1_ref": "bestwebsitecreation-012",
+  "node_role": "buffer",
+  "money_target": "bestwebsitecreation.com.au",
+  "primary_kw": "website design australia",
+  "intended_url": "https://sitesau.github.io/bestwebsitecreation-152/",
+  "tier": "T2",
+  "writeback_nonce": "4273fad508bcfeb8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/website-design-australia-012/",
+      "anchor": "the website design australia overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
